@@ -1,1 +1,53 @@
 /* Copy and paste your CSS from CodePen into here */
+body{
+  background-color: black;
+}
+
+.Container {
+    width: 100%;
+    min-width: 500px;
+    margin: auto;
+}
+
+
+
+h1 {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  width: 100%
+}
+
+
+.Class1 {
+  background-color: grey;
+  color: white;
+  border: 3px solid blue;
+  padding: 10px;
+  margin: 20px;
+}
+
+#Id1 {
+  padding: 60px;
+  color: green;
+}
+
+#Id2 { 
+ background-color: grey;
+  margin: 10px;
+  height: 90px;
+}
+
+#img-div {
+  display: block;
+  margin: 0;
+  max-width: 50%;
+  height: auto;
+  padding: 0;
+}
+
+
+
+
+
+
